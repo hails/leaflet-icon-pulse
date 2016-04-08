@@ -47,7 +47,7 @@
 
             // apply css class
 
-            this.options.className = this.options.className+' leaflet-pulsing-icon '+uniqueClassName;
+            this.options.className = this.options.className+' sonar-emitter '+uniqueClassName;
 
             // initialize icon
             
