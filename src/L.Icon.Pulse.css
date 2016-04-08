@@ -28,9 +28,10 @@
   Animate the pseudo element.
   NOTE: add browser prefixes where needed.
 */
-.sonar-emitter::after {
-  animation: sonarWave 2s linear infinite;
-}
+
+/*.sonar-emitter::after {*/
+/*  animation: sonarWave 2s linear infinite;*/
+/*}*/
 
 @keyframes sonarWave {
   from {
