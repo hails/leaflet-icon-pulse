@@ -1,8 +1,9 @@
 {
   "name": "leaflet-icon-pulse",
-  "homepage": "https://github.com/mapshakers/leaflet-icon-pulse",
+  "homepage": "https://github.com/hails/leaflet-icon-pulse",
   "authors": [
-    "Filip Zavadil"
+    "Filip Zavadil",
+    "Allan Jorge"
   ],
   "description": "A pulsing icon plugin for Leaflet",
   "main": [
@@ -28,5 +29,5 @@
     "test",
     "tests"
   ],
-  "version": "0.1.0"
+  "version": "0.1.1"
 }
