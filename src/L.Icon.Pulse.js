@@ -20,7 +20,7 @@
             var before = ['background-color: '+this.options.color];
             var after = [
 
-                'box-shadow: 0 0 6px 2px '+this.options.color,
+                //'box-shadow: 0 0 6px 2px '+this.options.color,
 
                 'animation: sonarWave ' + this.options.heartbeat + 's ease-out',
                 'animation-iteration-count: infinite',
