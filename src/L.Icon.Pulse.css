@@ -34,11 +34,13 @@
 /*}*/
 
 @keyframes sonarWave {
-  from {
-    opacity: 0.5;
+  0% {
+    opacity: 0.8;
   }
-  to {
+  90% {
     transform: scale(20);
+  }
+  100% {
     opacity: 0;
   }
 }
